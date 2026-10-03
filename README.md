@@ -19,7 +19,7 @@ On benchmark functions:
 ## Optimization Paths.
 
 ### Compass Search
-![cross-in-tray-compasssearch](image.png)
+![cross-in-tray-compasssearch](readmeimages/image.png)
 ![eggholder-compasssearch](readmeimages/image-3.png)
 ![ackley-compasssearch](readmeimages/image-2.png)
 
